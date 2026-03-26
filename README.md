@@ -1,6 +1,6 @@
 LEVEL 1: ✅
 
-LEVEL 2:
+LEVEL 2: ✅
 
 LEVEL 3:
 
