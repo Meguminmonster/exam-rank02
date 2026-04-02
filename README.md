@@ -1,7 +1,6 @@
-Preguntas de Examen
-Question 1 is from Level 1
-❓ Cuaquiera de las siguietes 12 funciones/programas:
-
+### Question 1 is from Level 1
+:question: Cuaquiera de las siguietes 12 funciones/programas:
+```
   - first_word
   - fizzbuzz
   - ft_strcpy
@@ -14,9 +13,10 @@ Question 1 is from Level 1
   - rotone
   - search_and_replace
   - ulstr
-Question 2 is from Level 2
-❓ Cuaquiera de las siguietes 20 funciones/programas:
-
+```
+### Question 2 is from Level 2
+:question: Cuaquiera de las siguietes 20 funciones/programas:
+```
   - alpha_mirror
   - camel_to_snake
   - do_op
@@ -37,9 +37,10 @@ Question 2 is from Level 2
   - swap_bits
   - union
   - wdmatch 
-Question 3 is from Level 3
-❓ Cuaquiera de las siguietes 15 funciones/programas:
-
+```
+### Question 3 is from Level 3
+:question: Cuaquiera de las siguietes 15 funciones/programas:
+```
   - add_prime_sum
   - epur_str
   - expand_str
@@ -55,9 +56,10 @@ Question 3 is from Level 3
   - rstr_capitalizer
   - str_capitalizer
   - tab_mult 
-Question 4 is from Level 4
-❓ Cuaquiera de las siguietes 10 funciones/programas:
-
+```
+### Question 4 is from Level 4
+:question: Cuaquiera de las siguietes 10 funciones/programas:
+```
   - flood_fill
   - fprime
   - ft_itoa
@@ -68,3 +70,4 @@ Question 4 is from Level 4
   - rostring
   - sort_int_tab
   - sort_list
+```
