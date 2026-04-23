@@ -44,7 +44,7 @@ int	main(int argc, char **argv)
 		i = 1;
 		while (i < argc)
 		{
-			str_capitalizer(argv[1]);
+			str_capitalizer(argv[i]);
 			write(1, "\n", 1);
 			i += 1;
 		}
